@@ -1,6 +1,6 @@
 # SoftwareTask
 
-This is a user friendly Python script that reads given Excel spreadsheet "Site_Capacity" and returns sum of skill for given date. 
+This(test.py) is a user friendly Python script that reads given Excel spreadsheet "Site_Capacity" and returns sum of skill for given date. 
 
 In order for script to work The Excel sheet "Site_Capacity" must be in same directory as the script and the sheet with the data(in this case "Sheet1") must be the active sheet.
 
