@@ -1,4 +1,4 @@
-# SoftwareTask
+# Excel reading script
 
 This(test.py) is a user friendly Python script that reads given Excel spreadsheet "Site_Capacity" and returns sum of skill for given date. 
 
